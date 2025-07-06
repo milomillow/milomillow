@@ -14,7 +14,6 @@ Welcome to my GitHub profile!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![CSS](https://img.shields.io/badge/-React-black?style=flat-square&logo=css)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Python-black?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 📈 GitHub Stats
