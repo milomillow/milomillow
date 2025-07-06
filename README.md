@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Milo but my real name is Vitor 👋
 
-<!--
-**milomillow/milomillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate developer and tech enthusiast
+- 🌱 Currently learning HTML, CSS, JavaScript, Python, Java, and AI
+- 🎯 Always looking for new challenges and opportunities to grow
+- 📫 How to reach me: perrut@proton.me
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=html)
+![CSS](https://img.shields.io/badge/-React-black?style=flat-square&logo=css)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Python-black?style=flat-square&logo=java)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## 📈 GitHub Stats
+
+![Milo's GitHub stats](https://github-readme-stats.vercel.app/api?username=milomillow&show_icons=true&theme=dracula)
+
+---
+
+Feel free to check out my repositories and get in touch!
